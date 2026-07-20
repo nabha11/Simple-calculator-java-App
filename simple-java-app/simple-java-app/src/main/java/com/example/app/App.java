@@ -2,6 +2,7 @@ package com.example.app;
 
 /**
  * Simple entry point for the application.
+ this is whre your program starts
  */
 public class App {
 
